@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by: Patrick Coxall
+# Created by: Paul M
 # Created on: September 2019
 # This program shows how local and global variables work
 
